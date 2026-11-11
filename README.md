@@ -1,22 +1,23 @@
-# A08 — CSS for Page Layout (Chapter 6)
+A08 – CSS for Page Layout (Chapter 6)
 
-**Student:** Bisma (NJIT UCID: bt336)  
-**Assignment due date:** November 10, 2026
+Name: Bisma
+NJIT UCID: bt336
+Assignment: A08 – Chapter 6
 
-## Links (after publishing to GitHub)
-- **Repository:** https://github.com/bt336/A08
-- **Website:** https://bt336.github.io/A08/index.html
+Project Description
 
-> These links assume the GitHub username is `bt336`, the repository is named `A08`, and GitHub Pages is enabled for the repository. Confirm both links open before submitting to Canvas.
+For this assignment, I worked on the San Joaquin Valley Town Hall website using HTML and CSS. I used Flexbox to create a two-column layout, adjusted the text and images to fit the page, and updated the speaker pages to match the assignment instructions.
 
-## Files
-- `index.html` — Town Hall homepage with flexbox layout and featured speaker
-- `styles/main.css` — shared CSS used by all pages
-- `images/` — logo, favicon, and speaker pictures
-- `speakers/` — four linked speaker pages, including the Scott Sampson article
+Links
 
-## GitHub Pages setup
-1. Create the repository `A08` under the `bt336` GitHub account (if that is the account username).
-2. Upload the files and folders in this ZIP directly into the repository root.
-3. Go to **Settings → Pages → Build and deployment**; choose **Deploy from a branch**, `main`, `/ (root)`, then save.
-4. Open the website and test all four speaker links and their return links.
+* GitHub Repository: https://github.com/Bisma496/A08
+* Live Website: https://bisma496.github.io/A08/index.html
+
+What I Completed
+
+* Created the two-column layout using CSS Flexbox.
+* Adjusted the font sizes, images, and spacing.
+* Added the featured speaker section.
+* Included all four speaker pages and their links.
+* Updated the copyright footer.
+* Organized the HTML, CSS, and images into separate folders.
